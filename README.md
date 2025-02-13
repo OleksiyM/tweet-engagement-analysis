@@ -140,6 +140,5 @@ The analysis revealed the following key findings:
 
 Contributions are welcome!  If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
 
-## License
-[Choose a license, e.g., MIT, Apache 2.0, GPLv3.  Add a `LICENSE` file to your repository with the full license text.]  *Example:*
+## License 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
